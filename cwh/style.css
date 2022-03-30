@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 80%;
+    background-color: aqua;
+    padding: 30px;
+    margin:20px auto;
+}
+.container h1,p{
+    text-align: center;
+}
+
+input,textarea{
+    width: 80%;
+    margin:10px;
+    padding:6px;
+}
